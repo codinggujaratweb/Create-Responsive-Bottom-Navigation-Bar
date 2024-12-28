@@ -1,5 +1,5 @@
 # Bottom Navigation Bar With Expandable Menu
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Bottom-Navigation-Bar/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Bottom-Navigation-Bar/)
 ### Bottom Navigation Bar With Expandable Menu
 
 - Bottom Navigation Bar With Expandable Menu Using HTML CSS And JavaScript
